@@ -1,15 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Philexlisation</title>
-</head>
-<body>
+<?php include 'includes/header.php'; ?>
+<?php include 'includes/navbar.php'; ?>
 
 <h1>Welcome to Philexlisation</h1>
+<p>One Platform. Unlimited Opportunities.</p>
 
-<p><strong>One Platform. Unlimited Opportunities.</strong></p>
-
-<p>This is the official beginning of the Philexlisation platform.</p>
-
-</body>
-</html>
+<?php include 'includes/footer.php'; ?>
